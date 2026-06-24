@@ -4,7 +4,7 @@ import { TfiQuoteLeft } from "react-icons/tfi";
 
 function Cards({des, src, name,status}) {
   return (
-    <div className='w-[392px] rounded-[32px] bg-[#27322F]/24 px-6 py-12'>
+    <div className='w-full md:w-[392px] rounded-[32px] bg-[#27322F]/24 px-3 md:px-6 md:py-12 py-6'>
         <div className="flex flex-col gap-y-8">
             <div className="bg-[#3D3F54] w-14 h-14 rounded-full flex justify-center items-center">
                 <TfiQuoteLeft className='text-white text-2xl' />
