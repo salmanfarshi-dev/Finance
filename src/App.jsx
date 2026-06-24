@@ -1,13 +1,16 @@
 import React from 'react'
-import {Button} from "@heroui/react";
+import Navbar from './Layouts/Navbar'
+import Hero from './Layouts/Hero'
+import Vision from './Layouts/Vision'
+
 
 function App() {
   return (
 
    <>
-    <div className='text-4xl bg-red-400 text-center py-3 font-bold text-white'>App</div>
-
-       <Button variant="secondary">Secondary</Button>
+    <Navbar/>
+    <Hero/>
+    <Vision/>
    </>
   )
 }

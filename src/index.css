@@ -1,2 +1,19 @@
+/* m PLUS 1 FONT  */
+
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@100..900&display=swap');
+
+
 @import "tailwindcss";
 @import "@heroui/styles"; 
+
+
+
+
+@theme{
+    --color-primary: #772AB3;    /* bg */
+    --color-secondary: #ADB2B1;    /*peragraph text*/
+       
+
+
+    --font-mplus1: "M PLUS 1", sans-serif;
+}
