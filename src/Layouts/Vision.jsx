@@ -2,7 +2,7 @@ import React from "react";
 
 function Vision() {
   return (
-    <section className="max-w-[1320px] mx-auto mt-[460px] mb-[128px] z-10">
+    <section className="max-w-330 mx-auto mt-115 mb-32 z-10">
       <div className="bg-[#3D3D54]/24 rounded-[32px pt-5 pb-8 rounded-[32px]">
         <h3 className="text-[30px] text-white font-bold text-center mb-4">
           Wern’s Vision
