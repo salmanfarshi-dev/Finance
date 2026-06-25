@@ -6,6 +6,7 @@ import Offer from './Layouts/Offer'
 import DebitCard from './Layouts/DebitCard'
 import Find from './Layouts/Find'
 import Card from './Layouts/Card'
+import Faq from './Layouts/Faq'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
     <DebitCard/>
     <Find/>
     <Card/>
+    <Faq/>
    </>
   )
 }

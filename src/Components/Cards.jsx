@@ -10,7 +10,7 @@ function Cards({des, src, name,status}) {
                 <TfiQuoteLeft className='text-white text-2xl' />
 
             </div>
-            <p className='text-[16px] font-poppins w-[344px] text-white leading-6'>{des}</p>
+            <p className='text-[16px] font-poppins md:w-[344px] w-full flex-wrap text-white leading-6'>{des}</p>
 
             <div className="flex items-center gap-x-2">
                 <div className="w-12 h-12 rounded-full">
