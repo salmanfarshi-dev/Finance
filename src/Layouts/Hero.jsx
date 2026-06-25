@@ -6,7 +6,7 @@ import BannerImage from "../assets/bannerimage.png";
 
 function Hero() {
   return (
-    <section className="max-w-[1320px] px-4 md:px-0 mx-auto my-12 md:my-32">
+    <section className="max-w-[1320px]   px-4 md:px-0 mx-auto my-12 md:my-32">
       <div className="flex  justify-between flex-col items-start md:gap-0 gap-y-12">
         <div className="flex flex-col gap-y-7.5">
           <h1 className=" text-3xl md:text-[56px] font-bold leading-10 md:leading-16 tracking-[-2.5%] text-white md:w-[604px] w-full">

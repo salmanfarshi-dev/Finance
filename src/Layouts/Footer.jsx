@@ -6,7 +6,7 @@ function Footer() {
   return (
     <section className="mt-32 mb-32 md:mt-10 md:mb-10 bg-[#292834]/30 backdrop-blur">
       <div className="max-w-330 mx-auto px-4 md:px-0">
-        <div className="pt-16 pb-33.5 grid grid-cols-12 gap-8 justify-between">
+        <div className="pt-16 pb-33.5 grid grid-cols-12 gap-y-8 justify-between">
           <div className="md:col-span-4 col-span-12">
             <img src={Logo} alt="image" />
             <p className="mt-3 text-[16px] text-secondary font-normal max-w-71.5 w-full flex-wrap">
